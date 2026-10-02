@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+# Datos personales y credenciales: nunca al repositorio
+client_secret*.json
+token.json
+*.db
+panel.html
+*.csv
